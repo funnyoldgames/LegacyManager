@@ -34,7 +34,7 @@ Attention has been on the match engine itself so far, rather than visual polish.
 ## Who is making LegacyMangaer?
 
 LegacyManager is made in London by FingerMonster. Follow along on:
-- The [FingerMonster Twitter/X](https://twitter.com/fingermonster/)
+- The [FingerMonster Twitter/X](https://twitter.com/fingermonstr/)
 - On [GitHub](https://github.com/fingermonster/) for work stuff
 
 - Visit the [LegacyManager](https://legacymanager.net) website
