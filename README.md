@@ -1,11 +1,11 @@
-# What is LegacyManager?
+# What is Legacy Manager?
 It’s a football (soccer) management game. Not an open source one, so you’re not going to find the code for it here. But the development process has been very open, so I’m hoping people will learn from it.
 <br/><br/>
 ## Why make a football management game, hasn’t Football Manager® got that covered?
 
 Because modern games are far too in-depth and complicated for an old man like me. I have too many children and too many things to do. I tried playing a recent version and could appreciate the quality, but didn’t enjoy the game. Too many things felt like guesswork (team talks, training, youth advancement etc) and I don’t have the time or the interest to create spreadsheets to try to understand this kind of stuff.
 <br/><br/>
-## What makes LegacyManager different?
+## What makes Legacy Manager different?
 
 It’s fast, it’s fun, and it’s easy to jump in and out of. While it still has a full 2d match engine, multiple countries and leagues, and tens of thousands of players to buy and sell, it’s all hosted on my servers. You can play through a browser or dedicated apps, which means you can jump in from your computer, phone or tablet wherever you are, and continue the exact same game. Your progress follows you around.
 
@@ -31,9 +31,9 @@ Attention has been on the match engine itself so far, rather than visual polish.
 
 ![LegacyManager match view](https://github.com/fingermonster/fingermonster/blob/33d8e7a14e650ac47ce875d3e2d7cc956267d15f/match-view.png?raw=true)
 <br/><br/>
-## Who is making LegacyMangaer?
+## Who is making Legacy Mangaer?
 
-LegacyManager is made in London by FingerMonster. Follow along on:
+Legacy Manager is made in London by FingerMonster. Follow along on:
 - The [FingerMonster Twitter/X](https://twitter.com/fingermonstr/)
 - On [GitHub](https://github.com/fingermonster/) for work stuff
-- The [LegacyManager](https://legacymanager.net) website
+- The [Legacy Manager](https://legacymanager.net) website
