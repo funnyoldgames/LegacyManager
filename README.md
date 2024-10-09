@@ -33,7 +33,7 @@ Attention has been on the match engine itself so far, rather than visual polish.
 <br/><br/>
 ## Who is making Legacy Mangaer?
 
-Legacy Manager is made in London by FingerMonster. Follow along on:
-- The [FingerMonster Twitter/X](https://twitter.com/fingermonstr/)
-- On [GitHub](https://github.com/fingermonster/) for work stuff
+Legacy Manager is made in London by Will Grey/Funny Old Games. Follow along on:
+- The [WillGreyLDN X/Twitter](https://x.com/willgreyldn/)
+- On [GitHub](https://github.com/funnyoldgames/) for work stuff
 - The [Legacy Manager](https://legacymanager.net) website
